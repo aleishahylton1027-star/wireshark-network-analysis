@@ -6,6 +6,7 @@ This project demonstrates basic network traffic analysis using Wireshark.
 
 ## Tools Used
 - Wireshark
+- Web Browser 
 
 ## Objectives
 - Capture live network traffic
